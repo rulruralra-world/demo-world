@@ -6,6 +6,7 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 class DemoApplication
 
+// TODO: hihihi
 fun main(args: Array<String>) {
 	runApplication<DemoApplication>(*args)
 }
